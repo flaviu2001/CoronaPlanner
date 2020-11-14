@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/lastName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="32dp"
+                android:hint="@string/nume_de_familie"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/firstName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ems="10"
+                android:hint="@string/prenume"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toEndOf="@+id/lastName"
+                app:layout_constraintStart_toStartOf="@+id/lastName"
+                app:layout_constraintTop_toBottomOf="@+id/lastName" />
+
+            <EditText
+                android:id="@+id/address"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ems="10"
+                android:hint="@string/adresa"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toEndOf="@+id/firstName"
+                app:layout_constraintStart_toStartOf="@+id/firstName"
+                app:layout_constraintTop_toBottomOf="@+id/firstName" />
+
+            <EditText
+                android:id="@+id/address_now"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ems="10"
+                android:hint="@string/adresa_curenta"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toEndOf="@+id/address"
+                app:layout_constraintStart_toStartOf="@+id/address"
+                app:layout_constraintTop_toBottomOf="@+id/address" />
+
+            <EditText
+                android:id="@+id/date_birth"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ems="10"
+                android:hint="@string/data_nasterii"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toEndOf="@+id/address_now"
+                app:layout_constraintStart_toStartOf="@+id/address_now"
+                app:layout_constraintTop_toBottomOf="@+id/address_now" />
+
+            <EditText
+                android:id="@+id/placeBirth"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ems="10"
+                android:hint="@string/locul_nasterii"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toEndOf="@+id/date_birth"
+                app:layout_constraintStart_toStartOf="@+id/date_birth"
+                app:layout_constraintTop_toBottomOf="@+id/date_birth" />
+
+            <Button
+                android:id="@+id/generate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="@string/genereaza"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/death"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <CheckBox
+                android:id="@+id/medical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/asistenta_medicala"
+                app:layout_constraintStart_toStartOf="@+id/workplace"
+                app:layout_constraintTop_toBottomOf="@+id/workplace" />
+
+            <CheckBox
+                android:id="@+id/pills"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/cumparaturi_de_medicamente"
+                app:layout_constraintStart_toStartOf="@+id/medical"
+                app:layout_constraintTop_toBottomOf="@+id/medical" />
+
+            <CheckBox
+                android:id="@+id/caretake"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/ingrijire_alta_persoana"
+                app:layout_constraintStart_toStartOf="@+id/pills"
+                app:layout_constraintTop_toBottomOf="@+id/pills" />
+
+            <CheckBox
+                android:id="@+id/death"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/deces"
+                app:layout_constraintStart_toStartOf="@+id/caretake"
+                app:layout_constraintTop_toBottomOf="@+id/caretake" />
+
+            <CheckBox
+                android:id="@+id/interes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/interes_profesional"
+                app:layout_constraintStart_toStartOf="@+id/placeBirth"
+                app:layout_constraintTop_toBottomOf="@+id/placeBirth" />
+
+            <EditText
+                android:id="@+id/societate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ems="10"
+                android:hint="@string/societate"
+                android:inputType="textPersonName"
+                app:layout_constraintStart_toStartOf="@+id/interes"
+                app:layout_constraintTop_toBottomOf="@+id/interes"
+                android:importantForAutofill="no" />
+
+            <EditText
+                android:id="@+id/office_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ems="10"
+                android:hint="@string/locatia_sediului"
+                android:inputType="textPersonName"
+                app:layout_constraintStart_toStartOf="@+id/societate"
+                app:layout_constraintTop_toBottomOf="@+id/societate"
+                android:importantForAutofill="no" />
+
+            <EditText
+                android:id="@+id/workplace"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ems="10"
+                android:hint="@string/adresa_lucru"
+                android:inputType="textPersonName"
+                app:layout_constraintStart_toStartOf="@+id/office_location"
+                app:layout_constraintTop_toBottomOf="@+id/office_location"
+                android:importantForAutofill="no" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</layout>

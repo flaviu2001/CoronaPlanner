@@ -1,0 +1,167 @@
+Europa
+
+Albania - https://www.worldometers.info/coronavirus/country/albania/
+Austria - https://www.worldometers.info/coronavirus/country/austria/
+Belarus - https://www.worldometers.info/coronavirus/country/belarus/
+Belgia - https://www.worldometers.info/coronavirus/country/belgium/
+Bosnia şi Herţegovina - https://www.worldometers.info/coronavirus/country/bosnia-and-herzegovina/
+Bulgaria - https://www.worldometers.info/coronavirus/country/bulgaria/
+Cehia - https://www.worldometers.info/coronavirus/country/czech-republic/
+Cipru - https://www.worldometers.info/coronavirus/country/Cyprus/
+Croația - https://www.worldometers.info/coronavirus/country/croatia/
+Danemarca - https://www.worldometers.info/coronavirus/country/denmark/
+Confederaţia Elveţiană - https://www.worldometers.info/coronavirus/country/switzerland/
+Estonia - https://www.worldometers.info/coronavirus/country/estonia/
+Federația Rusă - https://www.worldometers.info/coronavirus/country/russia/
+Finlanda - https://www.worldometers.info/coronavirus/country/finland/
+Franța - https://www.worldometers.info/coronavirus/country/france/
+Germania - https://www.worldometers.info/coronavirus/country/germany/
+Irlanda - https://www.worldometers.info/coronavirus/country/ireland/
+Islanda - https://www.worldometers.info/coronavirus/country/iceland/
+Italia - https://www.worldometers.info/coronavirus/country/italy/
+Letonia - https://www.worldometers.info/coronavirus/country/latvia/
+Liechtenstein - https://www.worldometers.info/coronavirus/country/liechtenstein/
+Lituania - https://www.worldometers.info/coronavirus/country/lithuania/
+Luxemburg - https://www.worldometers.info/coronavirus/country/luxembourg/
+Macedonia de Nord - https://www.worldometers.info/coronavirus/country/macedonia/
+Malta - https://www.worldometers.info/coronavirus/country/malta/
+Monaco - https://www.worldometers.info/coronavirus/country/monaco/
+Muntenegru - https://www.worldometers.info/coronavirus/country/montenegro/
+Norvegia - https://www.worldometers.info/coronavirus/country/norway/
+Polonia - https://www.worldometers.info/coronavirus/country/poland/
+Portugalia - https://www.worldometers.info/coronavirus/country/portugal/
+Principatul Andorra - https://www.worldometers.info/coronavirus/country/andorra/
+Regatul Ţărilor de Jos - https://www.worldometers.info/coronavirus/country/netherlands/
+Regatul Unit al Marii Britanii şi al Irlandei de Nord - https://www.worldometers.info/coronavirus/country/uk/
+Republica Moldova - https://www.worldometers.info/coronavirus/country/moldova/
+Republica Elenă - https://www.worldometers.info/coronavirus/country/greece/
+Serbia - https://www.worldometers.info/coronavirus/country/serbia/
+Slovacia - https://www.worldometers.info/coronavirus/country/slovakia/
+Slovenia - https://www.worldometers.info/coronavirus/country/slovenia/
+Spania - https://www.worldometers.info/coronavirus/country/spain/
+Turcia - https://www.worldometers.info/coronavirus/country/turkey/
+Ucraina - https://www.worldometers.info/coronavirus/country/ukraine/
+Ungaria - https://www.worldometers.info/coronavirus/country/hungary/
+
+Africa
+
+Africa de Sud - https://www.worldometers.info/coronavirus/country/south-africa/
+Algeria - https://www.worldometers.info/coronavirus/country/algeria/
+Angola - https://www.worldometers.info/coronavirus/country/angola/
+Botswana - https://www.worldometers.info/coronavirus/country/botswana/
+Burkina Faso - https://www.worldometers.info/coronavirus/country/burkina-faso/
+Burundi - https://www.worldometers.info/coronavirus/country/burundi/
+Capul Verde - https://www.worldometers.info/coronavirus/country/cabo-verde/
+Coasta de Fildeș - https://www.worldometers.info/coronavirus/country/cote-d-ivoire/
+Uniunea Comorelor - https://www.worldometers.info/coronavirus/country/comoros/
+Congo - https://www.worldometers.info/coronavirus/country/congo/
+Republica Democrată Congo - https://www.worldometers.info/coronavirus/country/congo/
+Egipt - https://www.worldometers.info/coronavirus/country/egypt/
+Regatul ESWATINI (SWAZILAND) - https://www.worldometers.info/coronavirus/country/swaziland/
+Etiopia - https://www.worldometers.info/coronavirus/country/ethiopia/
+Kenya - https://www.worldometers.info/coronavirus/country/kenya/
+Regatul Lesotho - https://www.worldometers.info/coronavirus/country/lesotho/
+Madagascar - https://www.worldometers.info/coronavirus/country/madagascar/
+Mali - https://www.worldometers.info/coronavirus/country/mali/
+Maroc - https://www.worldometers.info/coronavirus/country/morocco/
+Namibia - https://www.worldometers.info/coronavirus/country/namibia/
+Nigeria - https://www.worldometers.info/coronavirus/country/niger/
+Malawi - https://www.worldometers.info/coronavirus/country/malawi/
+Republica GAMBIA - https://www.worldometers.info/coronavirus/country/gambia/
+Republica Guineea Bissau - https://www.worldometers.info/coronavirus/country/guinea-bissau/
+Republica Guineea - https://www.worldometers.info/coronavirus/country/guinea/
+Republica Islamică Mauritania - https://www.worldometers.info/coronavirus/country/mauritania/
+Mauritius - https://www.worldometers.info/coronavirus/country/mauritius/
+Mozambic - https://www.worldometers.info/coronavirus/country/mozambique/
+Republica Democrată São Tomé şi Principe - https://www.worldometers.info/coronavirus/country/sao-tome-and-principe/
+Rwanda - https://www.worldometers.info/coronavirus/country/rwanda/
+Senegal - https://www.worldometers.info/coronavirus/country/senegal/
+Seychelles - https://www.worldometers.info/coronavirus/country/seychelles/
+Republica Unită Tanzania - https://www.worldometers.info/coronavirus/country/tanzania/
+Tunisia - https://www.worldometers.info/coronavirus/country/tunisia/
+Uganda - https://www.worldometers.info/coronavirus/country/uganda/
+Zambia - https://www.worldometers.info/coronavirus/country/zambia/
+Zimbabwe - https://www.worldometers.info/coronavirus/country/zimbabwe/
+
+America
+
+Antigua și Barbuda - https://www.worldometers.info/coronavirus/country/antigua-and-barbuda/
+Argentina - https://www.worldometers.info/coronavirus/country/argentina/
+Bahamas - https://www.worldometers.info/coronavirus/country/bahamas/
+Barbados - https://www.worldometers.info/coronavirus/country/barbados/
+Belize - https://www.worldometers.info/coronavirus/country/belize/
+Bolivia - https://www.worldometers.info/coronavirus/country/bolivia/
+Brazilia - https://www.worldometers.info/coronavirus/country/brazil/
+Canada - https://www.worldometers.info/coronavirus/country/canada/
+Chile - https://www.worldometers.info/coronavirus/country/chile/
+Columbia - https://www.worldometers.info/coronavirus/country/colombia/
+Costa Rica - https://www.worldometers.info/coronavirus/country/costa-rica/
+Cuba - https://www.worldometers.info/coronavirus/country/cuba/
+Dominica - https://www.worldometers.info/coronavirus/country/dominican-republic/
+Ecuador - https://www.worldometers.info/coronavirus/country/ecuador/
+El Salvador - https://www.worldometers.info/coronavirus/country/el-salvador/
+Grenada - https://www.worldometers.info/coronavirus/country/grenada/
+Guatemala - https://www.worldometers.info/coronavirus/country/guatemala/
+Haiti - https://www.worldometers.info/coronavirus/country/haiti/
+Honduras - https://www.worldometers.info/coronavirus/country/honduras/
+Jamaica - https://www.worldometers.info/coronavirus/country/jamaica/
+Mexic - https://www.worldometers.info/coronavirus/country/mexico/
+Nicaragua - https://www.worldometers.info/coronavirus/country/nicaragua/
+Panama - https://www.worldometers.info/coronavirus/country/panama/
+Paraguay - https://www.worldometers.info/coronavirus/country/paraguay/
+Peru - https://www.worldometers.info/coronavirus/country/peru/
+Republica Dominicană - https://www.worldometers.info/coronavirus/country/dominican-republic/
+Statele Unite ale Americii - https://www.worldometers.info/coronavirus/country/us/
+St. Kitts și Nevis - https://www.worldometers.info/coronavirus/country/saint-kitts-and-nevis/
+St. Lucia - https://www.worldometers.info/coronavirus/country/saint-lucia/
+St. Vincent și Grenadines - https://www.worldometers.info/coronavirus/country/saint-vincent-and-the-grenadines/
+Trinidad și Tobago - https://www.worldometers.info/coronavirus/country/trinidad-and-tobago/
+
+Asia de Sud şi de Est
+
+Coreea de Sud - https://www.worldometers.info/coronavirus/country/south-korea/
+Filipine - https://www.worldometers.info/coronavirus/country/philippines/
+Indonezia - https://www.worldometers.info/coronavirus/country/indonesia/
+Japonia - https://www.worldometers.info/coronavirus/country/japan/
+Malaysia - https://www.worldometers.info/coronavirus/country/malaysia/
+Maldive - https://www.worldometers.info/coronavirus/country/maldives/
+Mongolia - https://www.worldometers.info/coronavirus/country/mongolia/
+Myanmar - https://www.worldometers.info/coronavirus/country/myanmar/
+Nepal - https://www.worldometers.info/coronavirus/country/nepal/
+Pakistan - https://www.worldometers.info/coronavirus/country/pakistan/
+Regatul Cambodgiei - https://www.worldometers.info/coronavirus/country/cambodia/
+Republica India - https://www.worldometers.info/coronavirus/country/india/
+Republica Populară Chineză - https://www.worldometers.info/coronavirus/country/china/
+Singapore - https://www.worldometers.info/coronavirus/country/singapore/
+Sri Lanka - https://www.worldometers.info/coronavirus/country/sri-lanka/
+Thailanda - https://www.worldometers.info/coronavirus/country/thailand/
+Timorul de Est - https://www.worldometers.info/coronavirus/country/timor-leste/
+Vietnam - https://www.worldometers.info/coronavirus/country/viet-nam/
+
+Caucaz şi Asia centrală
+
+Armenia - https://www.worldometers.info/coronavirus/country/armenia/
+Azerbaidjan - https://www.worldometers.info/coronavirus/country/azerbaijan/
+Georgia - https://www.worldometers.info/coronavirus/country/georgia/
+Kazahstan - https://www.worldometers.info/coronavirus/country/kazakhstan/
+Kârgâzstan - https://www.worldometers.info/coronavirus/country/kyrgyzstan/
+Tadjikistan - https://www.worldometers.info/coronavirus/country/tajikistan/
+Uzbekistan - https://www.worldometers.info/coronavirus/country/uzbekistan/
+
+Oceania
+
+Australia - https://www.worldometers.info/coronavirus/country/australia/
+Noua Zeelandă - https://www.worldometers.info/coronavirus/country/new-zealand/
+
+Orientul apropiat şi mijlociu
+
+Arabia Saudită - https://www.worldometers.info/coronavirus/country/saudi-arabia/
+BAHRAIN - https://www.worldometers.info/coronavirus/country/bahrain/
+Iran - https://www.worldometers.info/coronavirus/country/iran/
+Israel - https://www.worldometers.info/coronavirus/country/israel/
+Kuwait - https://www.worldometers.info/coronavirus/country/kuwait/
+Liban - https://www.worldometers.info/coronavirus/country/lebanon/
+Oman - https://www.worldometers.info/coronavirus/country/oman/
+Qatar - https://www.worldometers.info/coronavirus/country/qatar/
+Regatul Hașemit a Iordaniei - https://www.worldometers.info/coronavirus/country/jordan/
+Siria - https://www.worldometers.info/coronavirus/country/syria/

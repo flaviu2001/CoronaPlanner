@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Corona Planner App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Informatii despre Covid</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_travel">Tari</string>
+    <string name="country">Țara:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="informatii">Informatii</string>
+    <string name="foreign_countries">Tari straine</string>
+    <string name="declaratie_pe_propria_raspundere">Declaratie pe propria raspundere</string>
+    <string name="nume_de_familie">Nume de familie:</string>
+    <string name="prenume">Prenume:</string>
+    <string name="adresa">Adresa:</string>
+    <string name="adresa_curenta">Adresa curenta:</string>
+    <string name="data_nasterii">Data nasterii:</string>
+    <string name="locul_nasterii">Locul nasterii:</string>
+    <string name="genereaza">Genereaza</string>
+    <string name="asistenta_medicala">Asistenta medicala</string>
+    <string name="cumparaturi_de_medicamente">Achizitionare de medicamente</string>
+    <string name="ingrijire_alta_persoana">Ingrijire alta persoana</string>
+    <string name="deces">Deces</string>
+    <string name="interes_profesional">Interes profesional</string>
+    <string name="societate">Societate:</string>
+    <string name="locatia_sediului">Locatia sediului:</string>
+    <string name="adresa_lucru">Adresa lucru:</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_travel">
+
+    <fragment
+        android:id="@+id/nav_travel"
+        android:name="com.flaviu.coronaplannerapp.travel.TravelFragment"
+        android:label="@string/menu_travel"
+        tools:layout="@layout/travel_fragment" >
+        <action
+            android:id="@+id/action_nav_travel_to_nav_info"
+            app:destination="@id/nav_info" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_info"
+        android:name="com.flaviu.coronaplannerapp.info.InfoFragment"
+        android:label="Informatii"
+        tools:layout="@layout/info_fragment" >
+        <argument
+            android:name="country"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_pdf"
+        android:name="com.flaviu.coronaplannerapp.pdf.PdfFragment"
+        android:label="Generare declaratie"
+        tools:layout="@layout/pdf_fragment" />
+</navigation>
