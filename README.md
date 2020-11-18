@@ -1,6 +1,6 @@
 # CoronaPlanner
 
-A Coronavirus themed android app made at [ITFest Hackathon 2020](https://itfest.sisc.ro/hackathon/index.html).
+A Coronavirus themed android app made at [ITFest Hackathon 2020](https://itfest.sisc.ro/hackathon/index.html) in 12 hours.
 
 This app aims to make it easy to keep informed about the state of coronavirus in most countries by parsing the website of the [Romanian's Ministry of Foreign Affairs](http://www.mae.ro/en).
 
